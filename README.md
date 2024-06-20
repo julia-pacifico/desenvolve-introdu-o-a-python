@@ -1,2 +1,2 @@
-# desenvolve-introdu-o-a-python
-Projeto Desenvolve- Itabira Introdução web PDITA450
+# desenvolve-python-basico
+Projeto Desenvolve- Itabira Introdução python PDITA450
