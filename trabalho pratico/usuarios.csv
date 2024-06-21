@@ -1,0 +1,7 @@
+id,nome,usuario,senha,permissao
+1,Gerente,gerente,1234,gerente
+2,Alice,Alice,5678,vendedor
+3,Julia,Julia,0101,vendedor
+4,Camila,Camila,0202,vendedor
+5,Samyr,Samyr,0909,vendedor
+6,Joao Victor,Joao Victor,0505,vendedor
