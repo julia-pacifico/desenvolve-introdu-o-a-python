@@ -1,0 +1,35 @@
+﻿Documento Descritivo 
+Alunas: Alice Lage Cruz PDITA465 
+Camila Freitas Viana PDITA467 
+João Vitor Amaral De Oliveira PDITA140 
+Júlia Pacífico Ramos Barbosa PDITA450 
+Samyr Gomes Souza PDITA254 
+ 
+Introdução: 
+Nossa proposta com a “Pé de Nuven” é oferecer conforto com sapatos casuais e do dia a dia. Para melhor eficiência da experiencia de compra e venda com os nossos clientes, optamos por um sistema que é usado por dois tipos de usuários: Gerente e Vendedor. O gerente tem acesso total, enquanto o vendedor tem acesso limitado. 
+ 
+Implementação: 
+Usuário: 
+Estrutura de Dados: Lista de dicionários. 
+Estrutura do Arquivo: id, nome, usuário, senha, permissão. 
+Funcionalidades: 
+- Gerente: 
+Create: criar usuário 
+Read: listar usuários 
+Update: atualizar usuário 
+Delete: deletar usuário 
+-Vendedor: 
+Read: listar usuários 
+ 
+Produtos: 
+Estrutura de Dados: Lista de dicionários. 
+Estrutura do Arquivo: id, nome, preço, quantidade. 
+Funcionalidades: 
+Create: criar produto 
+Read: listar produtos, buscar produto, listar produtos ordenados por nome, listar produtos ordenados por preço 
+Update: atualizar produto 
+Delete: deletar produto 
+ 
+ 
+Conclusão: 
+Durante o desenvolvimento, a principal dificuldade foi garantir a correta persistência dos dados nos arquivos CSV. A escolha de dicionários e listas para estruturar os dados mostrou-se eficaz. Implementar um sistema mais robusto com autenticação segura e interface gráfica são melhorias para futuras versões. Tivemos de dificuldade executar o terminal, devido alguns bugs, também para estruturar os dados de cada elemento.
